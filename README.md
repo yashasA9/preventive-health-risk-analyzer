@@ -38,3 +38,10 @@ The solution uses a **modular multi-model architecture**:
 - Retrieval Augmented Generation (RAG)
 
 ---
+
+##  Project Presentation
+
+The complete hackathon presentation is available here:
+
+🔗 https://github.com/yashasA9/preventive-health-risk-analyzer/raw/main/presentation/hack.pptx
+
