@@ -1,1 +1,31 @@
 
+# Environment variables
+.env
+*.env
+
+# API keys / secrets
+*.key
+*.pem
+*.secret
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python cache (safe to ignore even if unused)
+__pycache__/
+*.pyc
+
+# Node / JS cache (Langflow related)
+node_modules/
+
+# Temporary files
+tmp/
+temp/
