@@ -43,5 +43,4 @@ The solution uses a **modular multi-model architecture**:
 
 The complete hackathon presentation is available here:
 
-🔗 https://github.com/yashasA9/preventive-health-risk-analyzer/raw/main/presentation/hack.pptx
-
+🔗 https://github.com/yashasA9/preventive-health-risk-analyzer/blob/e7d1fa042bf851014d899cfbef469d810900f75b/presentation/hack.pptx
